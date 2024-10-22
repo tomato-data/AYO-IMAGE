@@ -1,2 +1,2 @@
-# a-yo-image
+# A-yo-image
 Animate your image!
